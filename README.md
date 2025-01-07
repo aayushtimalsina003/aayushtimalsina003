@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ASP.NET CORE and C#.**
 
-- 👯 I’m looking to collaborate on **ASP.NET Core**
+- 👯 I’m looking to collaborate on **ASP.NET Core Projects**
 
 - 👨‍💻 All of my projects are available at [https://aayushtimalsinaportfolio.netlify.app/](https://aayushtimalsinaportfolio.netlify.app/)
 
