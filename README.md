@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://aayushtimalsinaportfolio.netlify.app/](https://aayushtimalsinaportfolio.netlify.app/)
 
-- 💬 Ask me about **react, NodeJs and Express.**
+- 💬 Ask me about **react, NodeJs and Express , FastAPI**
 
 - 📫 How to reach me **aayushtimalsina2@gmail.com**
 
