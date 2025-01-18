@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aayush Timalsina</h1>
 <h3 align="center">A passionate Backend developer from Nepal.</h3>
 
-- 🔭 I’m currently working on **Reactivities**
+- 🔭 I’m currently working on **ShopSphere**
 
 - 🌱 I’m currently learning **ASP.NET CORE and C#.**
 
