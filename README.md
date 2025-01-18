@@ -27,4 +27,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aayushtimalsina003&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="aayushtimalsina003" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aayushtimalsina003&show_icons=true&theme=tokyonight&locale=en" alt="aayushtimalsina003" /></p>
+
