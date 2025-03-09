@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **ASP.NET Core**
 
-- 👨‍💻 All of my projects are available at [https://aayushtimalsinaportfolio.netlify.app/](https://aayushtimalsinaportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://timalsinaaayush.com.np/](https://timalsinaaayush.com.np)
 
 - 💬 Ask me about **react, NodeJs and Express.**
 
