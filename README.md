@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Aayush Timalsina</h1>
 <h3 align="center">A passionate Backend developer from Nepal.</h3>
 
-- 🔭 I’m currently working on **ShopSphere**
+- 🔭 I’m currently working on **AI**
 
-- 🌱 I’m currently learning **ASP.NET CORE and C#.**
+- 🌱 I’m currently learning **Langchain, LangGraph and LLM**
 
-- 👯 I’m looking to collaborate on **ASP.NET Core**
+- 👯 I’m looking to collaborate on **Interesting Projects**
 
 - 👨‍💻 All of my projects are available at [https://timalsinaaayush.com.np/](https://timalsinaaayush.com.np)
 
-- 💬 Ask me about **react, NodeJs and Express.**
+- 💬 Ask me about **Python and React**
 
 - 📫 How to reach me **aayushtimalsina2@gmail.com**
 
